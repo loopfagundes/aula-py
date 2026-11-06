@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b57d867b-ea2d-4aae-bd5d-4ba222806142" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aula-py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 1/5_for_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 1/6_Listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AulaPyh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "loopfagundes"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/loopfagundes/aula-py.git",
+    "accountId": "c98f39ad-10ee-40eb-a818-19a4030e5073"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000466413386564" />
+      <entry key="MS500" value="1.2149442034861362" />
+      <entry key="S2" value="2.6912858134015076" />
+      <entry key="S5" value="4.302392450824685" />
+      <entry key="S10" value="5.564190986762789" />
+      <entry key="S30" value="9.096718205673021" />
+      <entry key="S60" value="15.273505917473813" />
+      <entry key="M2" value="24.09757738520863" />
+      <entry key="M5" value="35.68140433307716" />
+      <entry key="M10" value="43.97560861285552" />
+      <entry key="M15" value="48.79610105689201" />
+      <entry key="M30" value="56.94189092336686" />
+      <entry key="H1" value="64.50890465941137" />
+      <entry key="H2" value="71.66349555654826" />
+      <entry key="H4" value="78.5305914018815" />
+      <entry key="D1" value="88.98281361384652" />
+      <entry key="W1" value="91.54366098637638" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.2518980887647569E-54" />
+      <entry key="MS500" value="1.6577299934900877E-11" />
+      <entry key="S2" value="0.0020178015721913963" />
+      <entry key="S5" value="0.08361570473324374" />
+      <entry key="S10" value="0.2970990962671823" />
+      <entry key="S30" value="0.8690172341699531" />
+      <entry key="S60" value="1.382727294340211" />
+      <entry key="M2" value="2.064637635677838" />
+      <entry key="M5" value="2.9579249404951073" />
+      <entry key="M10" value="3.4842830580209867" />
+      <entry key="M15" value="3.7994549331605794" />
+      <entry key="M30" value="4.495505207418079" />
+      <entry key="H1" value="5.326008788565661" />
+      <entry key="H2" value="6.124098820117463" />
+      <entry key="H4" value="6.80860568675661" />
+      <entry key="D1" value="7.743973929970633" />
+      <entry key="W1" value="7.961564743032301" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659810833713924" />
+      <entry key="MS500" value="1.2063460549877112" />
+      <entry key="S2" value="2.686933809095413" />
+      <entry key="S5" value="4.356743373601741" />
+      <entry key="S10" value="5.809642284556314" />
+      <entry key="S30" value="9.920493141625144" />
+      <entry key="S60" value="16.622216086205462" />
+      <entry key="M2" value="26.135945350552024" />
+      <entry key="M5" value="38.62234346998357" />
+      <entry key="M10" value="47.44852722741847" />
+      <entry key="M15" value="52.586686665125825" />
+      <entry key="M30" value="61.431688470488155" />
+      <entry key="H1" value="69.83135100778065" />
+      <entry key="H2" value="77.7853499331375" />
+      <entry key="H4" value="85.3377831212585" />
+      <entry key="D1" value="96.72646598373458" />
+      <entry key="W1" value="99.50517661091644" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LjVUSL5O3eGhQp6yItBu3WVXSN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.5_for_while.executor": "Run",
+    "Python.6_Listas.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57d867b-ea2d-4aae-bd5d-4ba222806142" name="Changes" comment="" />
+      <created>1793967479369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793967479369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
